@@ -12,3 +12,5 @@ model.add(Dense(10, activation='softmax'))
 
 print(model.summary())
 print('This is a line of test code for github')
+
+print('This is a line of test code for github')
