@@ -11,3 +11,4 @@ model.add(Dropout(0.25))
 model.add(Dense(10, activation='softmax'))
 
 print(model.summary())
+print('This is a line of test code for github')
